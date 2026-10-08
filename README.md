@@ -17,7 +17,6 @@ I build software with AI and ship it as products. Analytics by day in Philadelph
 | Project | What it is | Try it |
 | --- | --- | --- |
 | [watchfloor](https://github.com/memery33/watchfloor) | OSINT conflict map with sourced, confidence-tagged events | [Live map](https://memery33.github.io/watchfloor/) |
-| [standards-rag](https://github.com/memery33/standards-rag) | RAG over a technical standards document with a real eval harness: golden set, recall@k, MRR, groundedness and citation scoring | Repo |
 | [alien-attack](https://github.com/memery33/alien-attack) | SUBSTRATA, a mobile-first side scroller crossed with a base builder | [Play in browser](https://memery33.github.io/alien-attack/) |
 | [the-desk](https://github.com/memery33/the-desk) | A tracker that looks like a desk, built as the output of an AI chief of staff brief | Repo |
 | [tableau-expert](https://github.com/memery33/tableau-expert) | A Claude skill for authoring Tableau workbooks, dashboards and Prep flows | Repo |
