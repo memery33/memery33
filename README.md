@@ -16,6 +16,7 @@ I build software with AI and ship it as products. Analytics by day in Philadelph
 
 | Project | What it is | Try it |
 | --- | --- | --- |
+| [Artemis II Window](https://github.com/memery33/artemis2) | Sit in Orion's window with the Artemis II crew, built from NASA's real lunar flyby photos and cabin audio, plus an open source Python command line tool for the Artemis II Planetary Data System archive. | [Live demo](https://memery33.github.io/artemis2/) |
 | [watchfloor](https://github.com/memery33/watchfloor) | OSINT conflict map with sourced, confidence-tagged events | [Live map](https://memery33.github.io/watchfloor/) |
 | [alien-attack](https://github.com/memery33/alien-attack) | SUBSTRATA, a mobile-first side scroller crossed with a base builder | [Play in browser](https://memery33.github.io/alien-attack/) |
 | [the-desk](https://github.com/memery33/the-desk) | A tracker that looks like a desk, built as the output of an AI chief of staff brief | Repo |
